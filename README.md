@@ -2,7 +2,7 @@ IS 601 Module 1 Assignment || Linux / Git Commands
 
 ## ls
 
-searches the current directory
+lists the current directory's contents
 
 ## cd [dir]
 
@@ -14,7 +14,7 @@ makes a new directory
 
 ## rm [file]
 
-deletes a specified file
+deletes a specified file permanently
 
 ## pwd
 
@@ -24,9 +24,9 @@ prints the working directory
 
 prints the username of the active user
 
-## echo [text]
+## echo [command/text]
 
-prints the text output of the command
+prints the text output of the command/text
 
 ## mv [file1] [file2]
 
@@ -50,7 +50,7 @@ adds changed file(s) to staging - prepares files for a git commit
 
 ## git commit [-m (message)]
 
-records changed files in staging to the repository. A message is commonly added
+records saved changes to the repository - messages are commonly included with -m
 
 ## git push [destination] [branch]
 
@@ -58,4 +58,4 @@ updates the remote destination repository with the updated local branch
 
 ## git merge [branch]
 
-integrates changes from the specified branch into the user's currently inhabited branch
+integrates changes from the specified branch into the user's current branch
