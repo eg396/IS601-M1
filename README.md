@@ -55,3 +55,7 @@ records changed files in staging to the repository. A message is commonly added
 ## git push [destination] [branch]
 
 updates the remote destination repository with the updated local branch
+
+## git merge [branch]
+
+integrates changes from the specified branch into the user's currently inhabited branch
