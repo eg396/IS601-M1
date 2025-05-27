@@ -7,3 +7,7 @@ searches the current directory
 ## cd
 
 changes the current directory
+
+## mkdir
+
+makes a new directory
