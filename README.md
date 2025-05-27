@@ -1,5 +1,4 @@
-## ----IS 601 Module 1 Assignment---- \n
-## ----   Linux / Git Commands   ---- \n
+IS 601 Module 1 Assignment || Linux / Git Commands
 
 ## ls
 
