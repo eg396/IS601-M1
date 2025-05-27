@@ -27,3 +27,7 @@ prints the username of the active user
 ## echo [text]
 
 prints the text output of the command
+
+## mv [file1] [file2]
+
+moves / renames file1 to file2
