@@ -35,3 +35,7 @@ moves / renames file1 to file2
 ## cp [file1] [file2]
 
 copies file1 to file2
+
+## clear
+
+clears the terminal of prior inputs / outputs
