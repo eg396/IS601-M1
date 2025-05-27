@@ -39,3 +39,7 @@ copies file1 to file2
 ## clear
 
 clears the terminal of prior inputs / outputs
+
+## git checkout [branch]
+
+changes git branch to (and optionally creates) the specified branch
