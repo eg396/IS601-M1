@@ -31,3 +31,7 @@ prints the text output of the command
 ## mv [file1] [file2]
 
 moves / renames file1 to file2
+
+## cp [file1] [file2]
+
+copies file1 to file2
