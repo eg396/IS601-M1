@@ -4,15 +4,15 @@ IS 601 Module 1 Assignment || Linux / Git Commands
 
 searches the current directory
 
-## cd
+## cd [dir]
 
 changes the current directory
 
-## mkdir
+## mkdir [dir]
 
 makes a new directory
 
-## rm
+## rm [file]
 
 deletes a specified file
 
@@ -23,3 +23,7 @@ prints the working directory
 ## whoami
 
 prints the username of the active user
+
+## echo [text]
+
+prints the text output of the command
