@@ -47,3 +47,7 @@ changes git branch to (and optionally creates) the specified branch
 ## git add [file(s)]
 
 adds changed file(s) to staging - prepares files for a git commit
+
+## git commit [-m (message)]
+
+records changed files in staging to the repository. A message is commonly added
