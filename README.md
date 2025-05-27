@@ -19,3 +19,7 @@ deletes a specified file
 ## pwd
 
 prints the working directory
+
+## whoami
+
+prints the username of the active user
