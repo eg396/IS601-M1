@@ -11,3 +11,7 @@ changes the current directory
 ## mkdir
 
 makes a new directory
+
+## rm
+
+deletes a specified file
