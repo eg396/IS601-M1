@@ -15,3 +15,7 @@ makes a new directory
 ## rm
 
 deletes a specified file
+
+## pwd
+
+prints the working directory
