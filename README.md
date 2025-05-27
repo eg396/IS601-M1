@@ -4,3 +4,7 @@
 ls
 
 ## lists contexts of the directory
+
+cd
+
+##   changes the current directory
