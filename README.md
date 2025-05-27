@@ -1,6 +1,6 @@
-----IS 601 Module 1 Assignment----
-----   Linux / Git Commands   ----
+## ----IS 601 Module 1 Assignment---- \n
+## ----   Linux / Git Commands   ---- \n
 
-ls
+## ls
 
-##  searches the current directory
+searches the current directory
